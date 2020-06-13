@@ -5,15 +5,15 @@
             "Details": "JumpActionWorlds!",
             "Versions": [
                 {
+                    "Version": "0.1.1",
+                    "Change": "最初"
+                },
+                {
+                    "Version": "2.0.0",
+                    "Change": "最初"
+                },
+                {
                     "Version": "0.0.1",
-                    "Change": "最初"
-                },
-                {
-                    "Version": "0.0.2",
-                    "Change": "最初"
-                },
-                {
-                    "Version": "0.0.8",
                     "Change": "最初"
                 },
                 {
