@@ -1,1 +1,14 @@
-sex
+{
+    "Series": {
+        "Worlds": {
+            "Name": "Worlds",
+            "Details": "JumpActionWorlds!",
+            "Versions": [
+                {
+                    "Version": "0.0.1",
+                    "Change": "最初"
+                }
+            ]
+        }
+    }
+}
