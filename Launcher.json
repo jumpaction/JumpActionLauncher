@@ -5,24 +5,10 @@
             "Details": "JumpActionWorlds!",
             "Versions": [
                 {
-                    "Version": "0.1.1",
-                    "Change": "最初"
-                },
-                {
-                    "Version": "2.0.0",
-                    "Change": "最初"
-                },
-                {
-                    "Version": "0.0.1",
-                    "Change": "最初"
-                },
-                {
-                    "Version": "0.0.9",
-                    "Change": "最初"
-                },
-                {
-                    "Version": "0.3.2",
-                    "Change": "最初"
+                    "Version": "1.0.0",
+                    "Change": "最初",
+                    "FileURL": "https://jumpaction.github.io/Worlds-Data/v1/0.0.1.7z",
+                    "EXEName": "Jump Action Worlds!.exe"
                 }
             ]
         },
